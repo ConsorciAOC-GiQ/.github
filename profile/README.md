@@ -1,6 +1,7 @@
-## PRJ TEST FILTER 👋
+## GiQ - Implementation status
 
-* [REPRESENTA](https://github.com/orgs/ConsorciAOC/repositories?q=representa_&type=all&language=&sort=)
-* [PSIS](https://github.com/orgs/ConsorciAOC/repositories?q=psis_&type=all&language=&sort=)
-* [PCI30_MC](https://github.com/orgs/ConsorciAOC/repositories?q=pci30_mc&type=all&language=&sort=)
+| Project  | Plataforma | Github | Estat jenkins |
+| ------------- | ------------- | ------------- | ------------- |
+| representa_core | WL12 | https://github.com/ConsorciAOC-PRJ/representa_core | PRO |
+
 
