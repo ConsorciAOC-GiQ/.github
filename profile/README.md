@@ -3,7 +3,7 @@
 | Project  | Plataforma | Estat jenkins | Job | Observacions |
 | ------------- | ------------- | ------------- |  ------------- | ------------- |
 | [representa_core](https://github.com/ConsorciAOC-PRJ/representa_core) | WL12 | PRO | https://jenkins.qualitat.aoc.cat/job/representa/job/core/ ||
-| [representa_ciutuada](https://github.com/ConsorciAOC-PRJ/representa_portal) | aoc-l-front8-0[1,2]-pro | PRO | https://jenkins.qualitat.aoc.cat/job/representa/job/ciutada/ | No es pot desplegar per problemes de connectivitat|
+| [representa_ciutuada](https://github.com/ConsorciAOC-PRJ/representa_portal) | aoc-l-front8-0[1,2]-pro | PRO | https://jenkins.qualitat.aoc.cat/job/representa/job/ciutada/ | |
 | [representa_funcionari](https://github.com/ConsorciAOC-PRJ/representa_portal) | aoc-l-eacat8-0[1,2]-pro | PRO | https://jenkins.qualitat.aoc.cat/job/representa/job/funcionari/ | |
 | [enotum-lite](https://github.com/ConsorciAOC-PRJ/enotum-lite) | WL12 | PRO | https://jenkins.qualitat.aoc.cat/job/enotum-lite/ | |
 | [hubcarpetes](https://github.com/ConsorciAOC-PRJ/hubcarpetes) | aoc-l-back8-0[1,2]-pro | PRO | https://jenkins.qualitat.aoc.cat/job/hubcarpetes/ | |
